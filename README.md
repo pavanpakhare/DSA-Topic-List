@@ -154,10 +154,3 @@
 - [ ] Fast Fourier Transform (FFT)
 
 ---
-
-## **Tips to Prepare**
-1. [ ] Start with basic data structures and progress to advanced topics.
-2. [ ] Solve problems on platforms like **LeetCode**, **Codeforces**, or **GeeksforGeeks**.
-3. [ ] Focus on understanding algorithms thoroughly before attempting problems.
-4. [ ] Practice regularly to strengthen implementation skills.
-
